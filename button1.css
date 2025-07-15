@@ -1,0 +1,10 @@
+.button1 {
+  background: linear-gradient(to right, red, gold);
+  text-align: center;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 12px 32px;
+  font-size: 1.1rem;
+  cursor: pointer;
+}/*# sourceMappingURL=button1.css.map */
